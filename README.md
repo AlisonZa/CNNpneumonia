@@ -2,7 +2,7 @@
 
 This notebook contains the code to develop a pneumonia detection model using a CNN neural network. We utilized the Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification Dataset. The model was developed on Google Colab, so you can clone the repository and run by yourself. The notebook is source of information about the Image Exploratory Data Analysis, creation of image Datasets with TensorFlow, and Convulotional Neural Networks.
 
-## 📁 Content:
+## 📁 Content
 The Jupyter notebook contains the work process to get to the model.
 
 ## 📚 Dataset
